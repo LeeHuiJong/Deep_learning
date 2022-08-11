@@ -1,4 +1,4 @@
-mport tensorflow as tf
+import tensorflow as tf
 from tensorflow.keras import models, layers, utils
 from utils import display_sample_img
 
@@ -41,7 +41,7 @@ class GAN():
           x_data, 
           epochs=1,
           batch_size=32,
-          standard =False
+          standard=False
           ):
     
     # setting
@@ -77,4 +77,4 @@ class GAN():
                                                     , history['g_loss'][-1]))
         
       fake_imgs = self.gene.predict(self._make_random())
-      display_sample_img(fake_imgs, (2,8), standard=True, size=2)
+      display_sample_img(fake_imgs, (2,8), standard=standard, size=2)
