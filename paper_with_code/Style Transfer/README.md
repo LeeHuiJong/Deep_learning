@@ -19,3 +19,5 @@
 <br>세세한 부분은 모두 생략해버린 것이다. 즉 content image에 대해 전체적인 느낌을 살린 것이다.
 
 ## 3. style representation
+style representation의 특징을 위해서 위의 content representaion 과정과 마찬가지로 이미지의 핵심 feature
+<br>를 뒤로갈수록 보존시키고 앞쪽은 detail을 살리는 쪽이다.
