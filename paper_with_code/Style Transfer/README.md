@@ -18,14 +18,14 @@
 뒤로 갈수록 사진은 뭔가 일그러진것 처럼 보이지만 이미지에 있는 핵심 feature 들은 보존하고 있는 상태다. 
 <br>세세한 부분은 모두 생략해버린 것이다. 즉 content image에 대해 전체적인 느낌을 살린 것이다.
 
-## 3. style representation
+## 3. Style representation
 style representation의 특징을 위해서 위의 content representaion 과정과 마찬가지로 이미지의 핵심 feature
 <br>를 뒤로갈수록 보존시키고 앞쪽은 detail을 살리는 쪽이다.
 <p align="left">
     <img src="images/style r pic.png">
 </p>
 
-## 4. style transfer
+## 4. Style transfer
 <p align="left">
     <img src="images/pic.png">
 </p>
