@@ -9,5 +9,10 @@
 
 ## 2. Content representation
 <p align="left">
-    <img src="images/example.png">
+    <img src="images/content representaion.png">
+</p>
+
+
+<p align="left">
+    <img src="images/content representaion.png">
 </p>
