@@ -8,10 +8,7 @@
 <br> Style Transfer 는 말그대로 이미지의 스타일을 변환시키는 것이다. 이에 base가 되는 모델은 VGG를 사용했다.
 
 ## 2. Content representation
-<p align="left">
-    <img src="images/content representaion.png">
-</p>
-
+이미지에서 우선 디테일한 픽셀의 정보는 지우고 high level content 만 보존하는 식으로 가는데 이는 아래의 그림처럼 진행된다.
 
 <p align="left">
     <img src="images/content r pic.png">
