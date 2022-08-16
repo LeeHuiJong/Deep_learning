@@ -29,3 +29,7 @@ style representation의 특징을 위해서 위의 content representaion 과정�
 <p align="left">
     <img src="images/pic.png">
 </p>
+최종적인 모델의 목적은 두 이미지의 특징을 추려내 원본이미지에 스타일을 적용시켜 새로운 이미지를 만들어내는 것이다.
+<br> α 와 β는 content 와 style의 weight를 얼마나 반영 할지에 대한 값이다. 결국 loss를 최소화 시키는 것이 이미지 생성의
+핵심이라 할 수 있다.
+
