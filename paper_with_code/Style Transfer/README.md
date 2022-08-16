@@ -15,8 +15,7 @@
 <p align="left">
     <img src="images/content r pic.png">
 </p>
-<br>
-뒤의 사진은 뭔가 일그러진것 처럼 보이지만 이미지에 있는 핵심 feature 들은 보존하고 있는 상태다. 
+뒤로 갈수록 사진은 뭔가 일그러진것 처럼 보이지만 이미지에 있는 핵심 feature 들은 보존하고 있는 상태다. 
 <br>세세한 부분은 모두 생략해버린 것이다. 즉 content image에 대해 전체적인 느낌을 살린 것이다.
 
 ## 3. style representation
