@@ -7,6 +7,11 @@
 왼쪽이 원래 이미지(input), 오른쪽의 작은 이미지가 스타일을 추출할 이미지, 그리고 오른쪽 큰 이미지가 변환된
 <br>인풋 이미지다. Style Transfer 는 말그대로 이미지의 스타일을 변환시키는 것이다. 저자는 base가 되는 CNN의
 <br>모델은 VGG를 사용했고 content image와 style image을 나눠 독립적으로 처리하는 방법을 보여주었다.
+<p align="left">
+    <img src="images/process pic.png">
+</p>
+위 그림은 이미지의 변환 과정을 간단히 보여주는데 가중치를 업데이트 하는것이 학습이 아닌 두개의 이미지를 이용해
+<br> 한개의 이미지를 업데이트 하는 것을 학습이라 한다. 이 과정에서 손실값이 작아지는 방향으로 업데이트를 해야 한다.
 
 ## 2. Content representation
 이미지에서 우선 디테일한 픽셀의 정보는 지우고 high level content 만 보존하는 식으로 가는데 이는 아래의 그림처럼
