@@ -7,6 +7,7 @@
 왼쪽이 원래 이미지(input), 오른쪽의 작은 이미지가 스타일을 추출할 이미지, 그리고 오른쪽 큰 이미지가 변환된
 <br>인풋 이미지다. Style Transfer 는 말그대로 이미지의 스타일을 변환시키는 것이다. 저자는 base가 되는 CNN의
 <br>모델은 VGG를 사용했고 content image와 style image을 나눠 독립적으로 처리하는 방법을 보여주었다.
+<br>
 <p align="left">
     <img src="images/process pic.png">
 </p>
