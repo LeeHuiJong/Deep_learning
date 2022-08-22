@@ -1,4 +1,4 @@
-# Style Transfer
+# Style Transfer 논문 리뷰
 ## 1. Introduction
 우선 예시를 보자.
 <p align="left">
