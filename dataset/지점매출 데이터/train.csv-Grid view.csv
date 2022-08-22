@@ -1,6 +1,0 @@
-﻿id,Store,Date,Temperature,Fuel_Price,Promotion1,Promotion2,Promotion3,Promotion4,Promotion5,Unemployment,IsHoliday,Weekly_Sales
-1,1,05/02/2010,42.31,2.572,,,,,,8.106,False,1643690.90
-2,1,12/02/2010,38.51,2.548,,,,,,8.106,True,1641957.44
-3,1,19/02/2010,39.93,2.514,,,,,,8.106,False,1611968.17
-4,1,26/02/2010,46.63,2.561,,,,,,8.106,False,1409727.59
-5,1,05/03/2010,46.50,2.625,,,,,,8.106,False,1554806.68
